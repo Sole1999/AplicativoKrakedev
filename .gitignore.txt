@@ -1,0 +1,5 @@
+ConfiguracionIDE/
+
+*.png
+
+Manual.txt
